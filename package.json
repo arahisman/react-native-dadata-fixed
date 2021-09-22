@@ -1,5 +1,5 @@
 {
-  "name": "react-native-dadata-suggestions",
+  "name": "react-native-dadata-fixed",
   "version": "0.2.0-alpha.2",
   "description": "React Native DaData suggestions",
   "main": "dist/index.js",
